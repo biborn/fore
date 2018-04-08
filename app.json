@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "Fore",
+    "slug": "fore",
+    "githubUrl": "https://github.com/biborn/fore",
+    "sdkVersion": "24.0.0",
+    "icon": "./icon.png",
+    "orientation": "portrait",
+    "loading": {
+      "icon": "./icon_rounded.png"
+    },
+    "androidStatusBar": {
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "bundleIdentifier": "my.fore.fore",
+      "buildNumber": "0.1.0",
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "my.fore.fore",
+      "versionCode": 16
+    },
+    "version": "0.1.0"
+  }
+}
